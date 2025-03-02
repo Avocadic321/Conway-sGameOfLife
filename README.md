@@ -1,4 +1,4 @@
-# Conway-sGameOfLife
+# Conway's Game Of Life
 
 ### Overview
 
