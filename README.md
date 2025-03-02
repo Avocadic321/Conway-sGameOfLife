@@ -3,6 +3,9 @@
 ### Overview
 
 This is a C-based implementation of **Conway's Game of Life**, a simulation where cells on a board evolve based on a set of rules. You can control the game through various keyboard and mouse inputs, as well as load and save grid states via text files.
+
+To run this project on your divice, you need to download CSFML library.
+
 ##### Features
 
 - Visual simulation of Conway's Game of Life.
