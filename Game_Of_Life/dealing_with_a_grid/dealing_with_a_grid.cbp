@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="dealing_with_a_grid" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/dealing_with_a_grid" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/dealing_with_a_grid" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="CSFML-2.6.1-windows-64-bit/CSFML/include" />
+			<Add directory="../../../../../../../../Program Files/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add library="csfml-graphics" />
+			<Add library="csfml-window" />
+			<Add library="csfml-system" />
+			<Add library="ole32" />
+			<Add library="comdlg32" />
+			<Add directory="CSFML/lib/gcc" />
+			<Add directory="../../../../../../../../Program Files/CodeBlocks/MinGW/lib/gcc/x86_64-w64-mingw32/13.1.0" />
+			<Add directory="../../../../../../../../Program Files (x86)/Windows Kits/10/Lib/10.0.22621.0/um/x64" />
+		</Linker>
+		<Unit filename="functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="functions.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tinyfiledialogs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tinyfiledialogs.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

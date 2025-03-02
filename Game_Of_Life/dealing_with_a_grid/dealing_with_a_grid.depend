@@ -1,0 +1,1826 @@
+# depslib dependency file v1.0
+1728323090 source:c:\users\xiaom\desktop\learning\bme\programming\project\dealing_with_a_grid\main.c
+	"functions.h"
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics.h
+	<SFML/Window.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/CircleShape.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/ConvexShape.h>
+	<SFML/Graphics/Font.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Image.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/RectangleShape.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/RenderTexture.h>
+	<SFML/Graphics/RenderWindow.h>
+	<SFML/Graphics/Shader.h>
+	<SFML/Graphics/Shape.h>
+	<SFML/Graphics/Sprite.h>
+	<SFML/Graphics/Text.h>
+	<SFML/Graphics/Texture.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Transformable.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Graphics/VertexArray.h>
+	<SFML/Graphics/VertexBuffer.h>
+	<SFML/Graphics/View.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window.h
+	<SFML/System.h>
+	<SFML/Window/Clipboard.h>
+	<SFML/Window/Context.h>
+	<SFML/Window/Cursor.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/JoystickIdentification.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+	<SFML/Window/Touch.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/Window.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system.h
+	<SFML/Config.h>
+	<SFML/System/Buffer.h>
+	<SFML/System/Clock.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Mutex.h>
+	<SFML/System/Sleep.h>
+	<SFML/System/Thread.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1726035669 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\config.h
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\buffer.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+	<stddef.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\export.h
+	<SFML/Config.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\types.h
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\clock.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+	<SFML/System/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\time.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\inputstream.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\mutex.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\sleep.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\thread.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\vector2.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\vector3.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\clipboard.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\export.h
+	<SFML/Config.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\types.h
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\context.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/Window/Window.h>
+
+1726035672 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\window.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowBase.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\event.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\joystick.h
+	<SFML/Window/Export.h>
+	<SFML/Window/JoystickIdentification.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\joystickidentification.h
+	<SFML/Window/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\keyboard.h
+	<SFML/Window/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\mouse.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\sensor.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector3.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\videomode.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1726035672 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\windowbase.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/Window/Vulkan.h>
+	<SFML/System/Vector2.h>
+
+1726035672 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\windowhandle.h
+	<SFML/Window/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\vulkan.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\cursor.h
+	<SFML/System/Vector2.h>
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\touch.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\blendmode.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\export.h
+	<SFML/Config.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\circleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\color.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\rect.h
+	<SFML/Graphics/Export.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\transform.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\types.h
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\convexshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\font.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\fontinfo.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\glyph.h
+	<SFML/Graphics/Rect.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\image.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Buffer.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\primitivetype.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\rectangleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\renderstates.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\rendertexture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\vertex.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\renderwindow.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\shader.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Glsl.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\glsl.h
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\shape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\sprite.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\text.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\texture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Window/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\transformable.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\vertexarray.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\vertexbuffer.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\sfml\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\view.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1727028307 source:c:\users\xiaom\desktop\learning\bme\programming\project\dealing_with_a_grid\functions.c
+	"functions.h"
+
+1728325028 c:\users\xiaom\desktop\learning\bme\programming\project\dealing_with_a_grid\functions.h
+	<SFML/Graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"tinyfiledialogs.h"
+
+1726421404 c:\users\xiaom\desktop\learning\bme\programming\project\dealing_with_a_grid\tinyfiledialogs.h
+
+1726421404 source:c:\users\xiaom\desktop\learning\bme\programming\project\dealing_with_a_grid\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1683832858 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\windows.h
+	<winapifamily.h>
+	<sdkddkver.h>
+	<winresrc.h>
+	<excpt.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<wincon.h>
+	<winver.h>
+	<winreg.h>
+	<winnetwk.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<winsock.h>
+	<wincrypt.h>
+	<winefs.h>
+	<winscard.h>
+	<winspool.h>
+	<ole.h>
+	<ole2.h>
+	<commdlg.h>
+	<stralign.h>
+	<winwlm.h>
+	<ole2.h>
+	<winsvc.h>
+	<mcx.h>
+	<imm.h>
+
+1683558128 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winresrc.h
+	<winuser.rh>
+	<commctrl.rh>
+	<dde.rh>
+	<winnt.rh>
+	<dlgs.h>
+	<winver.h>
+
+1683832852 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winuser.rh
+	<winapifamily.h>
+
+1683832730 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\commctrl.rh
+
+1683558128 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\dde.rh
+
+1683832530 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winnt.rh
+
+1683558552 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\dlgs.h
+	<winapifamily.h>
+
+1683832790 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winver.h
+	<winapifamily.h>
+	<SpecStrings.h>
+	<verrsrc.h>
+
+1683558382 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\verrsrc.h
+	<winapifamily.h>
+
+1683832526 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winbase.h
+	<winapifamily.h>
+	<macwin32.h>
+	<apisetcconv.h>
+	<minwinbase.h>
+	<apiquery2.h>
+	<processenv.h>
+	<fileapifromapp.h>
+	<debugapi.h>
+	<utilapiset.h>
+	<handleapi.h>
+	<errhandlingapi.h>
+	<fibersapi.h>
+	<namedpipeapi.h>
+	<profileapi.h>
+	<heapapi.h>
+	<ioapiset.h>
+	<synchapi.h>
+	<interlockedapi.h>
+	<processthreadsapi.h>
+	<sysinfoapi.h>
+	<memoryapi.h>
+	<enclaveapi.h>
+	<threadpoollegacyapiset.h>
+	<threadpoolapiset.h>
+	<jobapi.h>
+	<jobapi2.h>
+	<wow64apiset.h>
+	<libloaderapi.h>
+	<securitybaseapi.h>
+	<namespaceapi.h>
+	<systemtopologyapi.h>
+	<processtopologyapi.h>
+	<securityappcontainer.h>
+	<realtimeapiset.h>
+	<winerror.h>
+	<timezoneapi.h>
+	"winbase.inl"
+
+1683832518 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\minwinbase.h
+
+1683832526 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\apiquery2.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832502 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\processenv.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832508 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\fileapifromapp.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+	<fileapi.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\fileapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\debugapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\utilapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\handleapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\errhandlingapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\fibersapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\namedpipeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\profileapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\heapapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\ioapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\synchapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\interlockedapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\processthreadsapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\sysinfoapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832502 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\memoryapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\enclaveapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832526 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\threadpoolapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\jobapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832502 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\jobapi2.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\wow64apiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\libloaderapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832502 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\securitybaseapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832512 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\namespaceapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\systemtopologyapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\processtopologyapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\securityappcontainer.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\realtimeapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+
+1683832502 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\timezoneapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832526 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winbase.inl
+
+1683832858 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\wingdi.h
+	<winapifamily.h>
+	<macwin32.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"poppack.h"
+
+1683832858 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winuser.h
+	<winapifamily.h>
+	<macwin32.h>
+	<stdarg.h>
+	<libloaderapi.h>
+	<pshpack2.h>
+	<poppack.h>
+	<tvout.h>
+	"winuser.inl"
+
+1683832858 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winuser.inl
+
+1683832530 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winnls.h
+	<winapifamily.h>
+	<datetimeapi.h>
+	<libloaderapi.h>
+	<macwin32.h>
+	<stringapiset.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\datetimeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\stringapiset.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<winnls.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\wincon.h
+	<winapifamily.h>
+	<wincontypes.h>
+	<wingdi.h>
+	<consoleapi.h>
+	<consoleapi2.h>
+	<consoleapi3.h>
+
+1683558562 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\wincontypes.h
+	<minwindef.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\consoleapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+	<wincontypes.h>
+
+1683832530 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\consoleapi2.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+	<wincontypes.h>
+	<windef.h>
+
+1683832526 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\consoleapi3.h
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+	<wincontypes.h>
+	<windef.h>
+	<wingdi.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winreg.h
+	<winapifamily.h>
+	<apiset.h>
+	<apisetcconv.h>
+	<minwindef.h>
+	<minwinbase.h>
+	<macwin32.h>
+	<reason.h>
+
+1683558564 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\reason.h
+	<winapifamily.h>
+
+1683832500 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winnetwk.h
+	<winapifamily.h>
+	<wnnc.h>
+
+1683558562 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\dde.h
+	<windef.h>
+	<winapifamily.h>
+
+1683832850 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\ddeml.h
+	<winapifamily.h>
+
+1683832708 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\lzexpand.h
+	<winapifamily.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\mmsystem.h
+	<winapifamily.h>
+	<mmsyscom.h>
+	<pshpack1.h>
+	<mciapi.h>
+	<mmiscapi.h>
+	<mmiscapi2.h>
+	<playsoundapi.h>
+	<mmeapi.h>
+	<timeapi.h>
+	<joystickapi.h>
+	<poppack.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\mmsyscom.h
+	<winapifamily.h>
+	<pshpack1.h>
+	<macwin32.h>
+	<poppack.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\mciapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\mmiscapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\mmiscapi2.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\playsoundapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\mmeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<nt.h>
+	<ntrtl.h>
+	<nturtl.h>
+	<windows.h>
+	<mmsyscom.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\timeapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\joystickapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<mmsyscom.h>
+
+1683558378 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\nb30.h
+	<winapifamily.h>
+
+1683833090 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shellapi.h
+	<winapifamily.h>
+	<SpecStrings.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1683558382 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winperf.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<poppack.h>
+
+1683832636 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winsock.h
+	<winapifamily.h>
+	<windows.h>
+	<inaddr.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\wincrypt.h
+	<specstrings.h>
+	<winapifamily.h>
+	<bcrypt.h>
+	<ncrypt.h>
+	<dpapi.h>
+
+1683832566 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\ncrypt.h
+	<winapifamily.h>
+	<bcrypt.h>
+
+1683558376 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\dpapi.h
+
+1683558502 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winefs.h
+	<winapifamily.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winscard.h
+	<wtypes.h>
+	<winioctl.h>
+	"winsmcrd.h"
+	"SCardErr.h"
+	<winapifamily.h>
+
+1683832632 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winioctl.h
+	<pshpack1.h>
+	<poppack.h>
+	<winapifamily.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\scarderr.h
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winspool.h
+	<winapifamily.h>
+	<prsht.h>
+
+1683832768 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\prsht.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<pshpack4.h>
+	"prsht.inl"
+	<poppack.h>
+
+1683832768 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\prsht.inl
+
+1683558172 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\ole.h
+	<winapifamily.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\ole2.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<winerror.h>
+	<objbase.h>
+	<oleauto.h>
+	<coml2api.h>
+	<oleidl.h>
+	<poppack.h>
+
+1683832498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\objbase.h
+	<winapifamily.h>
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<combaseapi.h>
+	<coml2api.h>
+	<objidl.h>
+	<urlmon.h>
+	<propidl.h>
+	<poppack.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\combaseapi.h
+	<apiset.h>
+	<apisetcconv.h>
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<stdlib.h>
+	<wtypesbase.h>
+	<unknwnbase.h>
+	<objidlbase.h>
+	<guiddef.h>
+	<cguid.h>
+	<poppack.h>
+
+1683832830 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\unknwnbase.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypesbase.h"
+	<winapifamily.h>
+
+1683832824 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\objidlbase.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwnbase.h"
+	<winapifamily.h>
+	<limits.h>
+
+1683558498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\cguid.h
+	<winapifamily.h>
+
+1683832510 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\coml2api.h
+	<apiset.h>
+	<apisetcconv.h>
+	<combaseapi.h>
+	<objidl.h>
+	<propidlbase.h>
+
+1683832824 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\objidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+	<winapifamily.h>
+	<winapifamily.h>
+	<limits.h>
+
+1683832830 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\unknwn.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypes.h"
+	<winapifamily.h>
+
+1683832826 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\propidlbase.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+	<winapifamily.h>
+
+1683832824 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\oaidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	<winapifamily.h>
+
+1683832678 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\urlmon.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"servprov.h"
+	"msxml.h"
+	<winapifamily.h>
+
+1683832826 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\oleidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	<winapifamily.h>
+
+1683832674 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\servprov.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	<winapifamily.h>
+
+1683832710 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\msxml.h
+	"rpc.h"
+	"rpcndr.h"
+	"unknwn.h"
+	"objidl.h"
+	"oaidl.h"
+	<winapifamily.h>
+	<winapifamily.h>
+	<winapifamily.h>
+
+1683832828 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\propidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+	<winapifamily.h>
+	<coml2api.h>
+
+1683558498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\oleauto.h
+	<winapifamily.h>
+	<pshpack8.h>
+	<oaidl.h>
+	<poppack.h>
+
+1683832740 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\commdlg.h
+	<winapifamily.h>
+	<prsht.h>
+	<pshpack1.h>
+	"commdlg.inl"
+	<poppack.h>
+
+1683832740 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\commdlg.inl
+
+1683832530 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winsvc.h
+	<winapifamily.h>
+
+1683558522 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\mcx.h
+
+1683832850 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\imm.h
+	<winapifamily.h>
+	<ime_cmodes.h>
+
+1683558382 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\ime_cmodes.h
+
+1683833228 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shlobj.h
+	<winapifamily.h>
+	<ole2.h>
+	<prsht.h>
+	<commctrl.h>
+	<shtypes.h>
+	<shobjidl.h>
+	<shlobj_core.h>
+	<pshpack1.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<poppack.h>
+
+1683832730 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\commctrl.h
+	<winapifamily.h>
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<dpa_dsa.h>
+	"commctrl.inl"
+
+1683832554 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\dpa_dsa.h
+	<winapifamily.h>
+	"dpa_dsa.inl"
+
+1683832554 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\dpa_dsa.inl
+
+1683832730 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\commctrl.inl
+
+1683832796 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shtypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"wtypes.h"
+	"unknwn.h"
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1683833226 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shobjidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"oaidl.h"
+	"docobj.h"
+	"shtypes.h"
+	"comcat.h"
+	"propidl.h"
+	"prsht.h"
+	"propsys.h"
+	"ObjectArray.h"
+	"shobjidl_core.h"
+	<winapifamily.h>
+	<sherrors.h>
+
+1683832614 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\docobj.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"ocidl.h"
+	<winapifamily.h>
+
+1683832826 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\ocidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oleidl.h"
+	"oaidl.h"
+	"servprov.h"
+	"urlmon.h"
+	<winapifamily.h>
+
+1683832564 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\comcat.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+	<winapifamily.h>
+
+1683832720 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\propsys.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"ocidl.h"
+	"shtypes.h"
+	"StructuredQueryCondition.h"
+	<winapifamily.h>
+	<propkeydef.h>
+
+1683832714 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\structuredquerycondition.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	"propidl.h"
+	<winapifamily.h>
+
+1683558498 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\propkeydef.h
+
+1683832796 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\objectarray.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	<winapifamily.h>
+
+1683833100 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shobjidl_core.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"shtypes.h"
+	"servprov.h"
+	"comcat.h"
+	"propsys.h"
+	"ObjectArray.h"
+	<winapifamily.h>
+	<sherrors.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<prsht.h>
+	<pshpack8.h>
+	<poppack.h>
+	<commctrl.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+
+1683832780 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\sherrors.h
+	<winapifamily.h>
+	<winerror.h>
+
+1683832784 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shlobj_core.h
+	<winapifamily.h>
+	<ole2.h>
+	<shlguid.h>
+	<shtypes.h>
+	<shobjidl_core.h>
+	<pshpack1.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<pshpack8.h>
+	<poppack.h>
+	<poppack.h>
+
+1683832776 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shlguid.h
+	<winapifamily.h>
+	<isguids.h>
+	<exdisp.h>
+	<shldisp.h>
+	<knownfolders.h>
+
+1683558552 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\isguids.h
+	<winapifamily.h>
+
+1683832602 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\exdisp.h
+	"rpc.h"
+	"rpcndr.h"
+	"ocidl.h"
+	"docobj.h"
+	<winapifamily.h>
+
+1683833188 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\shldisp.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"ocidl.h"
+	<winapifamily.h>
+
+1683558552 c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\knownfolders.h
+	<winapifamily.h>
+
+1728325036 source:c:\users\xiaom\desktop\learning\bme\programming\project_life\dealing_with_a_grid\functions.c
+	"functions.h"
+
+1728325028 c:\users\xiaom\desktop\learning\bme\programming\project_life\dealing_with_a_grid\functions.h
+	<SFML/Graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"tinyfiledialogs.h"
+
+1726421404 c:\users\xiaom\desktop\learning\bme\programming\project_life\dealing_with_a_grid\tinyfiledialogs.h
+
+1728323090 source:c:\users\xiaom\desktop\learning\bme\programming\project_life\dealing_with_a_grid\main.c
+	"functions.h"
+
+1726421404 source:c:\users\xiaom\desktop\learning\bme\programming\project_life\dealing_with_a_grid\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1729675607 source:c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\functions.c
+	"functions.h"
+
+1729683375 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\functions.h
+	<SFML/Graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"tinyfiledialogs.h"
+
+1726417804 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\tinyfiledialogs.h
+
+1729683883 source:c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\main.c
+	"functions.h"
+
+1726417804 source:c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics.h
+	<SFML/Window.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/CircleShape.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/ConvexShape.h>
+	<SFML/Graphics/Font.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Image.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/RectangleShape.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/RenderTexture.h>
+	<SFML/Graphics/RenderWindow.h>
+	<SFML/Graphics/Shader.h>
+	<SFML/Graphics/Shape.h>
+	<SFML/Graphics/Sprite.h>
+	<SFML/Graphics/Text.h>
+	<SFML/Graphics/Texture.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Transformable.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Graphics/VertexArray.h>
+	<SFML/Graphics/VertexBuffer.h>
+	<SFML/Graphics/View.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window.h
+	<SFML/System.h>
+	<SFML/Window/Clipboard.h>
+	<SFML/Window/Context.h>
+	<SFML/Window/Cursor.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/JoystickIdentification.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+	<SFML/Window/Touch.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/Window.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system.h
+	<SFML/Config.h>
+	<SFML/System/Buffer.h>
+	<SFML/System/Clock.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Mutex.h>
+	<SFML/System/Sleep.h>
+	<SFML/System/Thread.h>
+	<SFML/System/Time.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1726035669 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\config.h
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\buffer.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+	<stddef.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\export.h
+	<SFML/Config.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\types.h
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\clock.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+	<SFML/System/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\time.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\inputstream.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\mutex.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\sleep.h
+	<SFML/System/Export.h>
+	<SFML/System/Time.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\thread.h
+	<SFML/System/Export.h>
+	<SFML/System/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\vector2.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\system\vector3.h
+	<SFML/System/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\clipboard.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\export.h
+	<SFML/Config.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\types.h
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\context.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/Window/Window.h>
+
+1726035672 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\window.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowBase.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\event.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Joystick.h>
+	<SFML/Window/Keyboard.h>
+	<SFML/Window/Mouse.h>
+	<SFML/Window/Sensor.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\joystick.h
+	<SFML/Window/Export.h>
+	<SFML/Window/JoystickIdentification.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\joystickidentification.h
+	<SFML/Window/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\keyboard.h
+	<SFML/Window/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\mouse.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\sensor.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector3.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\videomode.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1726035672 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\windowbase.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Types.h>
+	<SFML/Window/Vulkan.h>
+	<SFML/System/Vector2.h>
+
+1726035672 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\windowhandle.h
+	<SFML/Window/Export.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\vulkan.h
+	<SFML/Window/Export.h>
+	<stddef.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\cursor.h
+	<SFML/System/Vector2.h>
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+
+1726035671 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\window\touch.h
+	<SFML/Window/Export.h>
+	<SFML/Window/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\blendmode.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\export.h
+	<SFML/Config.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\circleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\color.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\rect.h
+	<SFML/Graphics/Export.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\transform.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\types.h
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\convexshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\font.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/FontInfo.h>
+	<SFML/Graphics/Glyph.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\fontinfo.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\glyph.h
+	<SFML/Graphics/Rect.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\image.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Buffer.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\primitivetype.h
+	<SFML/Graphics/Export.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\rectangleshape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\renderstates.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\rendertexture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\vertex.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\renderwindow.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/RenderStates.h>
+	<SFML/Graphics/Vertex.h>
+	<SFML/Window/Event.h>
+	<SFML/Window/VideoMode.h>
+	<SFML/Window/WindowHandle.h>
+	<SFML/Window/Window.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\shader.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Glsl.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\glsl.h
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Color.h>
+	<SFML/System/Vector2.h>
+	<SFML/System/Vector3.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\shape.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\sprite.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/BlendMode.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\text.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Color.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\texture.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Window/Types.h>
+	<SFML/System/InputStream.h>
+	<SFML/System/Vector2.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\transformable.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Transform.h>
+	<SFML/System/Vector2.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\vertexarray.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\vertexbuffer.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/PrimitiveType.h>
+	<SFML/Graphics/Types.h>
+	<SFML/Graphics/Vertex.h>
+	<stddef.h>
+
+1726035670 c:\users\xiaom\desktop\learning\bme\programming\project_life\game_of_life\dealing_with_a_grid\csfml-2.6.1-windows-64-bit\csfml\include\sfml\graphics\view.h
+	<SFML/Graphics/Export.h>
+	<SFML/Graphics/Rect.h>
+	<SFML/Graphics/Types.h>
+	<SFML/System/Vector2.h>
+
+1729675607 source:c:\users\xiaom\desktop\learning\bme\programming\project_life_result\game_of_life\dealing_with_a_grid\functions.c
+	"functions.h"
+
+1729683375 c:\users\xiaom\desktop\learning\bme\programming\project_life_result\game_of_life\dealing_with_a_grid\functions.h
+	<SFML/Graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"tinyfiledialogs.h"
+
+1726417804 c:\users\xiaom\desktop\learning\bme\programming\project_life_result\game_of_life\dealing_with_a_grid\tinyfiledialogs.h
+
+1729683883 source:c:\users\xiaom\desktop\learning\bme\programming\project_life_result\game_of_life\dealing_with_a_grid\main.c
+	"functions.h"
+
+1726417804 source:c:\users\xiaom\desktop\learning\bme\programming\project_life_result\game_of_life\dealing_with_a_grid\tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<conio.h>
+	<direct.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+	<signal.h>
+	"tinyfiledialogs.h"
+
