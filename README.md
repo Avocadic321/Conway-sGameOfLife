@@ -25,6 +25,13 @@ To run this project on your divice, you need to download CSFML library.
 | **Right Arrow** | Step to the next generation while paused.              |
 | **Mouse**       | Toggle cell state (alive/dead) on click (when paused). |
 
+### Screenshots
+
+<img src="Screenshots_Game_Of_Life/Instructions.png" width="550">
+<img src="Screenshots_Game_Of_Life/InitialPosition.png" width="550">
+<img src="Screenshots_Game_Of_Life/Evolution.png" width="550">
+<img src="Screenshots_Game_Of_Life/EndPosition.png" width="550">
+
 ### Instructions
 
 ##### Starting the Game
